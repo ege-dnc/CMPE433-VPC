@@ -1,0 +1,16 @@
+farmer_id,name,village,crop,area_hectares,yield_kg,price_usd_per_kg,season,soil_moisture,last_updated
+F001,Ahmet Yılmaz,Harran,cotton,12.5,4200,42.5,2024-Spring,44,2024-04-01
+F002,Mehmet Demir,Bozova,wheat,8.0,3100,18.3,2024-Spring,51,2024-04-01
+F003,Ali Kaya,Siverek,pistachio,5.5,1800,210.0,2024-Spring,38,2024-04-02
+F004,Fatma Çelik,Viranşehir,cotton,15.0,5100,42.5,2024-Spring,47,2024-04-02
+F005,Hasan Aktaş,Suruç,wheat,10.2,3800,18.3,2024-Spring,53,2024-04-03
+F006,Ayşe Şahin,Halfeti,pistachio,7.0,2200,210.0,2024-Spring,35,2024-04-03
+F007,İbrahim Kurt,Ceylanpınar,cotton,20.0,6800,42.5,2024-Spring,49,2024-04-04
+F008,Zeynep Arslan,Akçakale,wheat,6.5,2400,18.3,2024-Spring,56,2024-04-04
+F009,Mustafa Öztürk,Hilvan,pistachio,4.0,1200,210.0,2024-Spring,40,2024-04-05
+F010,Emine Aydın,Birecik,cotton,9.0,3100,42.5,2024-Spring,43,2024-04-05
+F011,Yusuf Güneş,Harran,wheat,11.5,4300,18.3,2024-Spring,50,2024-04-06
+F012,Hatice Doğan,Bozova,pistachio,6.0,1900,210.0,2024-Spring,37,2024-04-06
+F013,Ömer Yıldız,Siverek,cotton,14.0,4700,42.5,2024-Autumn,45,2024-09-01
+F014,Hacer Polat,Viranşehir,wheat,7.5,2800,18.3,2024-Autumn,52,2024-09-01
+F015,Ramazan Çetin,Suruç,pistachio,8.5,2700,210.0,2024-Autumn,36,2024-09-02
